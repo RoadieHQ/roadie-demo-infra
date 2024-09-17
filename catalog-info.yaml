@@ -11,5 +11,5 @@ metadata:
     - infrastructure
 spec:
   type: library
-  owner: group:roadie-demo/solutions
+  owner: group:roadiehq/engineering
   lifecycle: production
