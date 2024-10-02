@@ -1,6 +1,5 @@
 {
     "tenant_slugs": [
-        "demo2",
-        "badwolf"
+        "demo2", "badwolf"
       ]
 }
