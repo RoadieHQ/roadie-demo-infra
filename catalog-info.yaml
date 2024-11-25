@@ -9,7 +9,8 @@ metadata:
     github.com/project-slug: roadiehq/roadie-demo-infra
   tags:
     - infrastructure
+    - demo
 spec:
-  type: library
-  owner: group:roadiehq/engineering
-  lifecycle: production
+  type: terraform
+  owner: group:roadiehq/marketing
+  lifecycle: development
